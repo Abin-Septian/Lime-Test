@@ -1,5 +1,7 @@
 ## Tentang Module Lime
 
+[![Magento 2](https://www.portotheme.com/magento2/porto/documentation/assets/images/magento2-logo.png "magento 2")](https://www.portotheme.com/magento2/porto/documentation/assets/images/magento2-logo.png)
+
 **Module Lime** adalah module `magento 2` versi `2.3.1` yang berisikan module 
 - addTopMenu
 - HelloWorld
